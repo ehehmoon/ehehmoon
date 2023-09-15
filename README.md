@@ -1,5 +1,4 @@
-**Hi there LOL** \n
-I can do: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Hi there LOL**
 
 <!--
 **ehehmoon/ehehmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
