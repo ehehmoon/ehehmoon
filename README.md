@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehehmoon&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehehmoon&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehehmon&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehehmoon&layout=compact&theme=dracula)
